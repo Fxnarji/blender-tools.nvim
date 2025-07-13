@@ -1,0 +1,1 @@
+require("blender-tools").setup()
